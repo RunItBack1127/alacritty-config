@@ -1,0 +1,13 @@
+window:
+  opacity: 0.9
+
+font:
+  normal:
+    family: JetBrainsMono Nerd Font
+  size: 11.5
+  offset:
+    y: 1
+
+key_bindings:
+  - { key: V, mods: Control|Shift, action: Paste }
+  - { key: C, mods: Control|Shift, action: Copy }
